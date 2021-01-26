@@ -1,12 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Anurag Shrirao ! 👋
+
+
+I am currently pursuing my BTech degree in Information Technology in GCOEA and currently working in startup[(ETROPLUS)](www.etroplus.com) as a technical support.
+I am currently working on a project to convert a [live native android app](https://play.google.com/store/apps/details?id=com.rb.etro) to cross-platform app using flutter.
+
+- 🔭 I’m currently working on flutter.
+
+- 🌱 I’m currently learning competitive coding.
+ 
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnuragShrirao&show_icons=true&theme=midnight-purple)
+
 
 <!--
-**AnuragShrirao/AnuragShrirao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on App Development.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
