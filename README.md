@@ -1,17 +1,36 @@
-### Hi there, I'm Anurag Shrirao ! 👋
+### Hi there, I'm Anurag Shrirao 👋
 
+🚀 Backend Developer | Java | Microservices | Data Engineering | AI Product Builder  
 
+I am a Software Developer with ~3.6 years of experience working on **Java, Spring Boot, Microservices, and Data Engineering workflows**.  
+I enjoy building scalable backend systems and recently focusing on **AI-powered product development for real-world business use cases**, especially in **export and international trade domains**.
 
-I am currently pursuing my B.Tech degree in Information Technology in GCOEA and currently working in startup[(HouseZet)](http://www.housezet.com/) as a technical support.
-I am currently working on a project to convert a [live native android app](https://play.google.com/store/apps/details?id=com.rb.etro) to cross-platform app using flutter.
+---
 
+### 💻 Tech Stack
+- **Languages:** Java, SQL  
+- **Backend:** Spring Boot, Microservices Architecture  
+- **Data:** Snowflake Cloud, ETL Pipelines, Data Processing  
+- **Tools:** Git, REST APIs, Cloud Platforms  
+- **Learning / Exploring:** System Design, Advanced Java, DSA, AI Integrations
 
-- 🔭 I’m currently working on flutter.
+---
 
-                                                   
-- 🌱 I’m currently learning competitive coding.
- 
+### 🚀 Current Focus
+- Building AI-powered platforms for exporters and B2B businesses  
+- Working on automation tools like website generators, lead systems, and workflow automation  
+- Strengthening system design and scalable backend architecture skills  
 
+---
 
+### 📚 Currently Learning
+- Advanced Java Internals  
+- Distributed Systems & Microservices Design Patterns  
+- Data Structures & Algorithms for high-performance backend systems  
+- Practical AI integrations in SaaS products  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnuragShrirao&show_icons=true&theme=midnight-purple)
+---
+
+### 🤝 Connect With Me
+- 💼 Open to Backend / Senior Java / Microservices opportunities  
+- 🌱 Always open to collaboration on AI + Backend + SaaS ideas
